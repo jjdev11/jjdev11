@@ -12,8 +12,8 @@
     <rect x="20" y="20" width="920" height="200" rx="100" ry="100" fill="#dfd9e3" />
 
     <text x="75" y="168" class="logotype" fill="#221729">
-        <tspan font-size="140">J</tspan><tspan font-size="45" dx="-5" dy="-10">UST</tspan>
-        <tspan font-size="140" dx="45" dy="10">J</tspan><tspan font-size="45" dx="-5" dy="-10">USTICE</tspan>
+        <tspan font-size="140" dx="35">J</tspan><tspan font-size="45" dx="-5" dy="-10">UST</tspan>
+        <tspan font-size="140" dx="0" dy="10">J</tspan><tspan font-size="45" dx="-5" dy="-10">USTICE</tspan>
         <tspan font-size="140" dx="45" dy="10">DEV</tspan>
     </text>
 </svg>
