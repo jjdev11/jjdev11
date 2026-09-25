@@ -1,4 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240">
+    <style>
+        .bg { fill:#ffffff; }
+        .txt { fill:#000000; }
+        @media (prefers-color-scheme: dark) {
+        .bg { fill:#0d1117; }
+        .txt { fill:#e6edf3; }
+        }
+    </style>
     <text x="50" y="170" font-family="Arial" font-weight="900" fill="#000">
         <tspan font-size="160">J</tspan><tspan font-size="48" dx="-8">UST</tspan>
         <tspan font-size="160" dx="35">J</tspan><tspan font-size="48" dx="-8">USTICE</tspan>
