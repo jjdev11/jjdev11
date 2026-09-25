@@ -1,8 +1,6 @@
-**<span style="vertical-align: bottom;">J</span><small>UST</small>**
-**<span style="vertical-align: bottom;">J</span><small>USTICE</small>**
-
-**<span style="vertical-align: bottom;">J</span><small>DEV</small>**
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jjdev11/profile/main/assets/header.svg" alt="Just Justice DEV" width="720"/>
+</p>
 
 <!--
 **jjdev11/jjdev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
