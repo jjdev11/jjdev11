@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jjdev11/profile/main/assets/header.svg" alt="Just Justice DEV" width="720"/>
+  <img src="https://github.com/jjdev11/jjdev11/blob/main/profile/main/assets/header.svg" alt="Just Justice DEV" width="720"/>
 </p>
 
 <!--
