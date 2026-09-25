@@ -1,15 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240">
-    <style>
-        .bg { fill:#ffffff; }
-        .txt { fill:#000000; }
-        @media (prefers-color-scheme: dark) {
-        .bg { fill:#0d1117; }
-        .txt { fill:#e6edf3; }
-        }
-    </style>
-    <text x="50" y="170" font-family="Arial" font-weight="900" fill="#000">
-        <tspan font-size="160">J</tspan><tspan font-size="48" dx="-8">UST</tspan>
-        <tspan font-size="160" dx="35">J</tspan><tspan font-size="48" dx="-8">USTICE</tspan>
-        <tspan font-size="160" dx="32">DEV</tspan>
+    <defs>
+        <style>
+            @import url('https://googleapis.com');
+            .logotype {
+            font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            font-weight: 900;
+            }
+        </style>
+    </defs>
+
+    <rect x="20" y="20" width="920" height="200" rx="100" ry="100" fill="#dfd9e3" />
+
+    <text x="75" y="168" class="logotype" fill="#221729">
+        <tspan font-size="140">J</tspan><tspan font-size="45" dx="-5" dy="-10">UST</tspan>
+        <tspan font-size="140" dx="45" dy="10">J</tspan><tspan font-size="45" dx="-5" dy="-10">USTICE</tspan>
+        <tspan font-size="140" dx="45" dy="10">DEV</tspan>
     </text>
 </svg>
