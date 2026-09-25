@@ -1,8 +1,7 @@
-<span style="font-size: 3em; font-family: sans-serif; font-weight: bold;">J<span style="font-size: 0.4em; vertical-align: baseline; letter-spacing: 0.1em;">UST</span></span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="font-size: 3em; font-family: sans-serif; font-weight: bold;">J<span style="font-size: 0.35em; vertical-align: baseline; letter-spacing: 0.05em;">USTICE</span></span>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="font-size: 3em; font-family: sans-serif; font-weight: bold;">DEV</span>
+**<span style="vertical-align: bottom;">J</span><small>UST</small>**
+**<span style="vertical-align: bottom;">J</span><small>USTICE</small>**
+
+**<span style="vertical-align: bottom;">J</span><small>DEV</small>**
 
 
 <!--
