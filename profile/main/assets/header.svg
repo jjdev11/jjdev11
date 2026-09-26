@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240">
-    <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="140" viewBox="0 0 960 140">
+    <defs>https://github.com/jjdev11/jjdev11/tree/main/profile/main/assets
         <style>
             @import url('https://googleapis.com');
             .logotype {
@@ -9,11 +9,11 @@
         </style>
     </defs>
 
-    <rect x="20" y="20" width="920" height="200" rx="100" ry="100" fill="#dfd9e3" />
+    <rect x="20" y="0" width="920" height="140" rx="50" ry="50" fill="#dfd9e3" />
 
-    <text x="75" y="168" class="logotype" fill="#221729">
-        <tspan font-size="140" dx="35">J</tspan><tspan font-size="45" dx="-5" dy="-10">UST</tspan>
-        <tspan font-size="140" dx="0" dy="10">J</tspan><tspan font-size="45" dx="-5" dy="-10">USTICE</tspan>
-        <tspan font-size="140" dx="45" dy="10">DEV</tspan>
+    <text x="75" y="115" class="logotype" fill="#221729">
+        <tspan font-size="140" dx="45">J</tspan><tspan font-size="60" dx="-5" dy="-10">UST.</tspan>
+        <tspan font-size="140" dx="45" dy="10">C</tspan><tspan font-size="60" dx="-5" dy="-5">lean.</tspan>
+        <tspan font-size="140" dx="45" dy="10">D</tspan><tspan font-size="60" dx="-5" dy="-5">EV.</tspan>
     </text>
 </svg>
