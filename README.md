@@ -1,7 +1,10 @@
-**<h1>Hi, my name is...</h1>**
+**<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is...</h1>**
 
 <p align="center">
   <img src="https://github.com/jjdev11/jjdev11/blob/main/profile/main/assets/header.svg" alt="Just Justice DEV" width="960"/>
+</p>
+<p align="center">
+  <a href="https://www.github.com/jjdev11" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=jjdev11&label=Profile%20views&color=0e75b6&style=flat-square" alt="jjdev11" width="140" /><img src="https://img.shields.io/github/followers/jjdev11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" width="150" /></a>
 </p>
 
 *<p>And here what about me...</p>*
@@ -9,6 +12,10 @@
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
+
+
+**<h2>--- Streak ---</h2>**
+<a href="http://www.github.com/jjdev11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jjdev11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <!--
 **jjdev11/jjdev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
