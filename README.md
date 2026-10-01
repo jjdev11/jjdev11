@@ -8,7 +8,7 @@
 </p>
 
 *<p>And here what about me...</p>*
-## ─═★ My skills ★═─
+### ─═★ My skills ★═─
 <p align="left">
   <a style="display: inline-block; text-align: left; margin: 1px;">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/><img src="https://img.shields.io/badge/8/10-204360?style=for-the-badge" alt="8/10"/>&nbsp;&nbsp;
@@ -21,12 +21,12 @@
   </a>
 </p>
 
-## ─══| Stats |══─
-![](https://github-readme-stats.shion.dev/api?username=jjdev11&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
+### ─══| Stats |══─
+![](https://github-readme-stats.shion.dev/api?username=jjdev11&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=jjdev11&theme=rose_pine&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jjdev11&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact) !-->
 
-## ◆◇◆ Random quote ◆◇◆
+### ◆◇◆ Random quote ◆◇◆
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
