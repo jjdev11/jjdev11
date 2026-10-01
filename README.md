@@ -11,20 +11,13 @@
 ## ─═★ My skills ★═─
 <p align="left">
   <a style="display: inline-block; text-align: left; margin: 1px;">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/8/10-204360?style=for-the-badge" alt="8/10"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/6/10-075E7A.svg?style=for-the-badge" alt="6/10"/><br>
-    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/3/10-002E52.svg?style=for-the-badge" alt="3/10"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/rust-D34516.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-    <img src="https://img.shields.io/badge/4/10-74260C.svg?style=for-the-badge" alt="4/10"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/assembly-202D3D.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript"/>
-    <img src="https://img.shields.io/badge/2/10-131B24.svg?style=for-the-badge" alt="2/10"/><br>
-    <img src="https://img.shields.io/badge/bash_script-293137.svg?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" alt="Bash"/>
-    <img src="https://img.shields.io/badge/6/10-161A14.svg?style=for-the-badge" alt="6/10"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/linux-24292E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-    <img src="https://img.shields.io/badge/5/10-161A1C?style=for-the-badge" alt="5/10"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/><img src="https://img.shields.io/badge/8/10-204360?style=for-the-badge" alt="8/10"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/6/10-075E7A.svg?style=for-the-badge" alt="6/10"/><br>
+    <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/><img src="https://img.shields.io/badge/3/10-002E52.svg?style=for-the-badge" alt="3/10"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/rust-D34516.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/><img src="https://img.shields.io/badge/4/10-74260C.svg?style=for-the-badge" alt="4/10"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/assembly-202D3D.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript"/><img src="https://img.shields.io/badge/2/10-131B24.svg?style=for-the-badge" alt="2/10"/><br>
+    <img src="https://img.shields.io/badge/bash_script-293137.svg?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" alt="Bash"/><img src="https://img.shields.io/badge/6/10-161A14.svg?style=for-the-badge" alt="6/10"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linux-24292E?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/><img src="https://img.shields.io/badge/5/10-161A1C?style=for-the-badge" alt="5/10"/>
   </a>
 </p>
 
