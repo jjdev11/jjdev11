@@ -4,7 +4,7 @@
   <img src="https://github.com/jjdev11/jjdev11/blob/main/profile/main/assets/header.svg" alt="Just Justice DEV" width="960"/>
 </p>
 <p align="center">
-  <a href="https://www.github.com/jjdev11" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=jjdev11&label=Profile%20views&color=0e75b6&style=flat-square" alt="jjdev11" width="140" /><img src="https://img.shields.io/github/followers/jjdev11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" width="150" /></a>
+  <a href="https://www.github.com/jjdev11" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/jjdev11?logo=github&style=for-the-badge&color=DEDAE2&labelColor=241D27" height="50" /><img src="https://komarev.com/ghpvc/?username=jjdev11&base_color=DEDAE2&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jjdev11" height="50" /></a>
 </p>
 
 *<p>And here what about me...</p>*
